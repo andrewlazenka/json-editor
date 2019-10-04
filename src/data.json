@@ -1,0 +1,65 @@
+{
+  "intl_index": "accra.profile",
+  "city_info": {
+    "city_name": "Accra",
+    "province": "",
+    "country": "Ghana",
+    "region": "",
+    "lat": "5.6037° N",
+    "long": "0.1870° W",
+    "description": "Accra, the capital of Ghana, is ina position of significant opportunity through economics and tourism with its international reputation of being rich in cultural history, widlife and hospitality. The capital city is also the largest and most prepared for international visitors within Ghana. The 16 districts in the Greater Accra region are under the jurisdiction of the Greater Accra Metropolitan Assembly (GAMA) and represent the needs of the nearly 4 million consituents. Originally built around three different settlements, Accra was the capital of the British influence on the Gold Coast in the 19th and 20th centuries. Since then, its has transformed into a modern city which is the 13th largest metropolitan area in Africa"
+  },
+  "graphs": [
+    { "title": "Age Demographics",
+      "data": [
+        { "label": "0-14", "value": "28.0%" },
+        { "label": "15-24", "value": "21.1%" },
+        { "label": "24-54", "value": "42.4%" },
+        { "label": "55-64", "value": "4.8%" },
+        { "label": "65+", "value": "3.7%" }
+      ]
+    },
+    { "title": "Employment Sectors",
+      "data": [
+        { "label": "Agriculture", "value": "1.2%" },
+        { "label": "Industry", "value": "18.8%" },
+        { "label": "Transport, storage, information, and communication", "value": "5.2%" },
+        { "label": "Financial & Business services", "value": "4.8%" },
+        { "label": "Consumer services", "value": "54.3%" },
+        { "label": "Public services", "value": "15.6%" }
+      ]
+    }
+  ],
+  "indices": [
+    { "title": "Social Progress Index", "sub_title": "Ghana", "value": 61.44, "out_of": 128, "score": 92, "featured": true },
+    { "title": "Global Cities Index Top 100", "sub_title": "Accra", "value": 0, "out_of": 100, "score": 0, "featured": true },
+    { "title": "Happy Planet Index", "sub_title": "Ghana", "value": 21.4, "out_of": 140, "score": 104, "featured": true },
+    { "title": "FM Global Resilience Index", "sub_title": "Ghana", "value": 35.4, "out_of": 130, "score": 76, "featured": true }
+  ],
+  "images": ["/relative/path/to/img1", "/relative/path/to/img2"],
+  "attributes": [
+    { "title": "People", "icon": "people_icon", "metrics": [
+      { "title": "Population", "aside": "", "value": "2,424,800", "featured": true },
+      { "title": "Migrants", "aside": "Born outside Metropolitan Accra", "value": "1.5%", "featured": false },
+      { "title": "Literacy Rate", "aside": "", "value": "76.6%", "featured": false },
+      { "title": "Languages", "aside": "", "value": "English", "featured": false },
+      { "title": "Avg. Household", "aside": "", "value": "3.5", "featured": false },
+      { "title": "Total Households", "aside": "", "value": "688,700", "featured": false },
+      { "title": "Life Expectancy", "aside": "", "value": "62.4", "featured": false }
+    ]},
+    { "title": "Governance", "icon": "governance_icon", "metrics": [
+      { "title": "Mayor", "aside": "", "value": "Mohammed Adjei Sowah", "featured": false },
+      { "title": "Last Election", "aside": "", "value": "2017", "featured": false }
+    ]},
+    { "title": "Economy", "icon": "economy_icon", "metrics": [
+      { "title": "Currency", "aside": "", "value": "Ghana Cedi", "abbrev": "GHS", "featured": true },
+      { "title": "Municipal GDP", "aside": "", "value": "$10.568 B USD", "featured": true },
+      { "title": "Economically Active Population", "aside": "", "value": "62%", "featured": false }
+    ]},
+    { "title": "Geography", "icon": "geography_icon", "metrics": [
+      { "title": "Climate ℃ Avg.", "aside": "", "value": "27", "featured": false },
+      { "title": "Annual Avg. Percipitation", "aside": "mm/yr", "value": "787", "featured": false },
+      { "title": "Area Km2", "aside": "", "value": "894", "featured": true }
+    ]}
+  ]
+}

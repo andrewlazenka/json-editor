@@ -1,0 +1,3 @@
+.outlineHover:hover {
+  outline: -webkit-focus-ring-color auto 1px;
+}
