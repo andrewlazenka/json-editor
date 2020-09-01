@@ -1,13 +1,14 @@
 {
   "name": "json-editor",
+  "description": "Visual in-browser JSON editor",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "lodash.get": "^4.4.2",
     "lodash.set": "^4.3.2",
-    "react": "^16.10.1",
-    "react-dom": "^16.10.1",
-    "react-scripts": "3.1.2"
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "3.4.3"
   },
   "scripts": {
     "start": "react-scripts start",
